@@ -1,0 +1,13 @@
+package com.codeclan.workplaces;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class WorkplacesApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(WorkplacesApplication.class, args);
+	}
+
+}
